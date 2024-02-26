@@ -1,4 +1,4 @@
-# static-crypto
+
 
 Simplify encryption and decryption using CryptoJS with **static** result.
 The key derived from the user password (or any string).
