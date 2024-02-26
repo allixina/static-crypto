@@ -1,23 +1,29 @@
 {
-    "name": "static-crypto",
-    "version": "1.2.0",
-    "description": "Simplify encryption and decryption using CryptoJS with static result",
-    "main": "static-crypto.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-      "crypto",
-      "cryptojs",
-      "encryption",
-      "two",
-      "way",
-      "encryption",
-      "hash",
-      "salt"
-    ],
-    "author": "Erick Vasilev",
-    "homepage": "https://github.com/allixina/static-crypto",
-    "license": "ISC"
-    }
-    
+  "name": "static-crypto-dex",
+  "version": "1.2.0",
+  "description": "Simplify encryption and decryption using CryptoJS with static result",
+  "main": "static-crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "cryptojs",
+    "encryption",
+    "two",
+    "way",
+    "encryption",
+    "hash",
+    "salt"
+  ],
+  "author": "Allixina",
+  "homepage": "https://github.com/allixina/static-crypto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allixina/static-crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allixina/static-crypto/issues"
+  }
+}
